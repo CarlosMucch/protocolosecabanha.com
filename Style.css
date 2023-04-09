@@ -134,8 +134,9 @@ tr {
 
 .fb-comments-comment-actions likes {
   font-size: 13px;
+  background: url(../img/reações/emoji_like.jpeg) no-repeat center center;
   background-size: 30%;
-  padding-left: 13px;
+  padding-left: 10px;
   padding-right: 6px;
   padding-top: 3px;
   padding-bottom: 2px;
@@ -281,6 +282,7 @@ tr {
   font-style: italic;
   text-shadow: #000000 0px 1px 0px;
 }
+
 
 .imagens-reacoes {
   width: 20px;
